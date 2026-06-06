@@ -1,4 +1,5 @@
-# A initial seminal work on job market signalling with LinkedIn as a case study
+# Automation Arms Race
+A initial seminal work on job market signalling with LinkedIn as a case study
 - paper/: LaTeX files
 
 # Parallel Society Legislation Project
