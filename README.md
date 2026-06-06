@@ -2,7 +2,7 @@
 A initial seminal work on job market signalling with LinkedIn as a case study
 - paper/: LaTeX files
 
-# Parallel Society Legislation Project
+# Parallel Society Legislation 2018
 
 This repository contains code and documentation for my seminar paper on Denmark's 2018 Parallel Society legislation and native–non-Western immigrant employment gaps.
 
