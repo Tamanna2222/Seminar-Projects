@@ -4,7 +4,7 @@ A initial seminal work on job market signalling with LinkedIn as a case study
 
 # Parallel Society Legislation 2018
 
-This repository contains code and documentation for my seminar paper on Denmark's 2018 Parallel Society legislation and native–non-Western immigrant employment gaps.
+This repository contains code and documentation for my seminar paper on Denmark's 2018 Parallel Society legislation and native–non-Western immigrant employment and unemployment gaps.
 
 ## Structure
 - code/: Python scripts for data cleaning and analysis
